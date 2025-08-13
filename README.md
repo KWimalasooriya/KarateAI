@@ -168,8 +168,3 @@ The front‑end (`index.html`) fetches that JSON every second and updates the pa
 - **Arduino** and the library authors  
 - Everyone who helped with data collection & testing
 
----
-
-## 📜 License
-
-Add your preferred license (e.g., MIT) in a `LICENSE` file.
