@@ -25,8 +25,7 @@ KarateAI/
 └── static/
     ├── gyaku.gif                  # Animation for Gyaku Zuki
     └── kisami.gif                 # Animation for Kisami Zuki
-```
-> If your layout differs, adjust paths in `app.py` and `index.html` accordingly.
+
 
 ---
 
